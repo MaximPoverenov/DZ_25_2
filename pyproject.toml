@@ -19,6 +19,9 @@ django-phonenumber-field = "^8.0.0"
 rest-framework-simplejwt = "^0.0.2"
 django-filter = "^24.3"
 ipython = "^8.27.0"
+serializers = "^0.2.4"
+djangorestframework-simplejwt = "^5.3.1"
+coverage = "^7.6.1"
 
 
 [build-system]
